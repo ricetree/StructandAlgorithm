@@ -1,0 +1,23 @@
+######################################################################
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+netgateboot
+# Test binary, built with `go test -c`
+*.test
+
+# module
+*.sum
+
+######################################################################
+# IDE
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.zip
